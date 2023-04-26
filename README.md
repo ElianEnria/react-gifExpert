@@ -1,4 +1,4 @@
-# GifExpertApp Basdao en React
+# GifExpertApp Basado en React
 Este es un repo del proyecto de GifExpertApp de React
 
 utilizo los comando
