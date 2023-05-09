@@ -1,11 +1,11 @@
 # GifExpertApp Basado en React
-Este es un repo del proyecto de GifExpertApp de React
+Este es un repo del proyecto de GifExpertApp de React.
 
-utilizo los comando
-yarn dev
-yarn test para los test "test": "jest --watchAll"
+utilizo los comando:
+yarn dev, para correr el proyecto.
+yarn test, para correr los test con una configuracion de "test": "jest --watchAll".
 
-Como herramienta de compilacion utilizo: Vite 
+Como herramienta de compilacion utilizo: Vite .
 
 Pagina web:
 https://search-gif-elian.netlify.app/ 
